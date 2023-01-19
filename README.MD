@@ -1,7 +1,14 @@
 # Kinsta - Example Application - Weather Logger with Node.js
 A small Node.js based weather data logging application, the purpose of which is to test deployment flows for Kinsta Application Hosting. Once running, the application will log the temperature and wind speed in a given location once every minute and allow you to view the last 100 entries on a web server. 
 
-> Kinsta’s Application Hosting is a service to run your web apps and any databases side by side in a hassle-free environment, tailored for developer needs and ease of use. App Hosting is currently in an invite-only beta phase, sign up for a test account at [kinsta.com/application-hosting](https://kinsta.com/appplication-hosting).
+---
+Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. Focus on coding and building, and we’ll take care of deployment and provide fast, scalable hosting. + 24/7 expert-only support.
+
+Get started for free, the first $20 is on us!
+
+[Application Hosting](https://kinsta.com/application-hosting)
+
+[Database Hosting](https://kinsta.com/database-hosting)
 
 ## Supported Databases
 To be able to test multiple databases on Kinsta you can use environment variables to change the database used by the application (more on specific setup below). The following databases are supported: 
